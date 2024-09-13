@@ -63,8 +63,7 @@ project overview:
 
 
 project introduction:
-https://www.bing.com/ck/a?!&&p=acc799aaee08652eacfa570e7039d68b5f7c4e3fae24b149684e506d0f6d2ab3JmltdHM9MTcyNjE4NTYwMCZpbnNpZD01ODE5&ptn=3&ver=2&hsh=4&fclid=3748873c-aa4a-6672-24ac-9493ab2f675c&psq=project+introduction+on+diabetes&u=a1aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvc2xpZGVzaG93L2RpYWJldGVzLWFuZC1leGVyY2lzZS1iaW9sb2d5LWludmVzdGlnYXRvcnktcHJvamVjdC1jbGFzcy0xMi8xNTEyMTUwMjE&ntb=1
-
+The project on diabetes defines the disease and describes its main types and causes12. It covers the signs and symptoms, diagnosis, treatment including lifestyle changes and medications, and prevention of diabetes complications1. The project emphasizes managing diabetes through regular checkups, medication, exercise, diet, and blood sugar monitoring1. It also discusses how exercise can help control blood sugar levels and regulate insulin sensitivity for those with diabetes, and recommends aerobic exercise, strength training, and flexibility exercises for diabetes management and prevention
 
 
 
