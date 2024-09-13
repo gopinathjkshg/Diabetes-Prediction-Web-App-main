@@ -81,10 +81,6 @@ problem statement gif
 <img src="https://c.tenor.com/_c_HqXqSvysAAAAC/tenor.gif" height=5% width=20% align="left">
 
 
-
-
-
-
 problem statement photo :
 
 
