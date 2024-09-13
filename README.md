@@ -88,7 +88,7 @@ problem statement gif
 problem statement photo :
 
 
-<img src="https://th.bing.com/th/id/OIP.wYAgHDZYLF_LrUoVcIYK3wAAAA?rs=1&pid=ImgDetMain" height=15% width=40% align="right">
+<img src="https://th.bing.com/th/id/OIP.wYAgHDZYLF_LrUoVcIYK3wAAAA?rs=1&pid=ImgDetMain" height=15% width=40% align="left">
 
 
 
