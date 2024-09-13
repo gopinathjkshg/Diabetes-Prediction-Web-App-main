@@ -12,6 +12,7 @@ future updation: need to work on as a data scientists or data analyst
 
 problem statement
 (diabetes):
+<img src="https://th.bing.com/th/id/OIP.wYAgHDZYLF_LrUoVcIYK3wAAAA?rs=1&pid=ImgDetMain" height=15% width=40% align="right">
 
 The number of people with diabetes rose from 108 million in 1980 to 422 million in 2014. Prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries.
 Diabetes is a major cause of blindness, kidney failure, heart attacks, stroke and lower limb amputation.
