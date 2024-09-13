@@ -4,3 +4,4 @@
 * Deep Learning in java
 * Self-Taught Coder
 * work maniac
+🌱 I'm currently learning: information technology [LeetCode](https://leetcode.com/gopinathjkshg)<br>
