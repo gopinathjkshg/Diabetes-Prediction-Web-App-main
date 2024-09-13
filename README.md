@@ -8,4 +8,10 @@
   
 🌱 I'm currently learning: information technology [LeetCode] (https://leetcode.com/gopinathjkshg)<br>
 
+future updation: need to work on as a data scientists or data analyst
 
+promblem statement
+(diabetes):
+
+
+<img src="https://th.bing.com/th/id/OIP.wYAgHDZYLF_LrUoVcIYK3wAAAA?rs=1&pid=ImgDetMain" height=15% width=40% align="right">
