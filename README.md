@@ -62,6 +62,13 @@ project overview:
 <img src="https://ecdn.teacherspayteachers.com/thumbitem/Diabetes-Research-Project-can-be-for-classroom-use-or-distance-learning--6342498-1628039666/original-6342498-1.jpg" height=15% width=40% align="right">
 
 
+
+
+
+
+
+
+
 project introduction:
 The project on diabetes defines the disease and describes its main types and causes12. It covers the signs and symptoms, diagnosis, treatment including lifestyle changes and medications, and prevention of diabetes complications1. The project emphasizes managing diabetes through regular checkups, medication, exercise, diet, and blood sugar monitoring1. It also discusses how exercise can help control blood sugar levels and regulate insulin sensitivity for those with diabetes, and recommends aerobic exercise, strength training, and flexibility exercises for diabetes management and prevention
 
