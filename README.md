@@ -77,12 +77,8 @@ The project on diabetes defines the disease and describes its main types and cau
 
 problem statement gif
 :
-<img src="https://th.bing.com/th/id/OIP.wYAgHDZYLF_LrUoVcIYK3wAAAA?rs=1&pid=ImgDetMain" height=15% width=40% align="right">
 
-
-
-
-
+<img src="https://c.tenor.com/_c_HqXqSvysAAAAC/tenor.gif" height=15% width=40% align="left">
 
 
 
