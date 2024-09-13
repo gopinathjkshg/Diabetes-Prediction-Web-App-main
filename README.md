@@ -90,6 +90,17 @@ problem statement gif
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 requirements:
 
 A healthy diet, regular physical activity, maintaining a normal body weight and avoiding tobacco use are ways to prevent or delay the onset of type 2 diabetes. Diabetes can be treated and its consequences avoided or delayed with diet, physical activity, medication and regular screening and treatment for complications.
