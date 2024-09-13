@@ -59,6 +59,11 @@ project overview:
 
 
 
+<img src="https://ecdn.teacherspayteachers.com/thumbitem/Diabetes-Research-Project-can-be-for-classroom-use-or-distance-learning--6342498-1628039666/original-6342498-1.jpg" height=15% width=40% align="right">
+
+
+
+
 
 
 
