@@ -12,7 +12,7 @@ future updation: need to work on as a data scientists or data analyst
 
 problem statement
 (diabetes):
-<img src="https://th.bing.com/th/id/OIP.wYAgHDZYLF_LrUoVcIYK3wAAAA?rs=1&pid=ImgDetMain" height=15% width=40% align="right">
+
 The number of people with diabetes rose from 108 million in 1980 to 422 million in 2014. Prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries.
 Diabetes is a major cause of blindness, kidney failure, heart attacks, stroke and lower limb amputation.
 Between 2000 and 2019, there was a 3% increase in diabetes mortality rates by age.
@@ -70,7 +70,14 @@ project overview:
 
 
 project introduction:
-The project on diabetes defines the disease and describes its main types and causes12. It covers the signs and symptoms, diagnosis, treatment including lifestyle changes and medications, and prevention of diabetes complications1. The project emphasizes managing diabetes through regular checkups, medication, exercise, diet, and blood sugar monitoring1. It also discusses how exercise can help control blood sugar levels and regulate insulin sensitivity for those with diabetes, and recommends aerobic exercise, strength training, and flexibility exercises for diabetes management and prevention
+The project on diabetes defines the disease and describes its main types and causes12. It covers the signs and symptoms, diagnosis, treatment including lifestyle changes and medications, and prevention of diabetes complications1. The project emphasizes managing diabetes through regular checkups, medication, exercise, diet, and blood sugar monitoring1. It also discusses how exercise can help control blood sugar levels and regulate insulin sensitivity for those with diabetes, and recommends aerobic exercise, strength training, and flexibility exercises for diabetes management and prevention.
+
+
+
+problem statement gif
+:
+<img src="https://th.bing.com/th/id/OIP.wYAgHDZYLF_LrUoVcIYK3wAAAA?rs=1&pid=ImgDetMain" height=15% width=40% align="right">
+
 
 
 
